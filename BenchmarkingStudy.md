@@ -1,0 +1,3 @@
+## Benchmarking studies (BS Entities)
+
+A BS entity will contain 1) meta information, such as a title, a short description, and a creation date; 2) a list of DS entities for reference datasets; 3) a list of CT entities for computational tools; 4) an optional list of PM entities for performance metrics; and 5) an optional list of RES entities for benchmark results. Adding or removing these components will expand or shrink a benchmarking study. A completed benchmarking study should contain RES entities for all combinations of DS and CT entities.

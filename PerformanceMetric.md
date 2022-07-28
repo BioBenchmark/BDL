@@ -1,0 +1,3 @@
+## Performance evaluation metrics (PM entities)
+
+While all output variables can be used to compare computational tool performance across reference datasets, some variables can be more important to visualize, and others can be too complex to analyze or visualize directly (e.g., arrays and dictionaries). CBL will allow the definition of PM entities to list performance metrices of interest to a particular benchmarking study or to summarize complex results across reference datasets and computational tools with proper annotations. The definition of PM entities, while optional, allows easier interpretation and visualization of benchmark results. Please refer to Section C.2.4 and Fig. 5 for an example of visualizing benchmark results.
